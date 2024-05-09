@@ -2,7 +2,7 @@
     𝐀𝐱 𝐌𝐮𝐳𝐢𝐜
    </h2>  
  <p align="center">   
-<img src="https://graph.org/file/cc41b9fed2c5c87f14044.jpg">   
+<img src="https://graph.org/file/b8666bc80cf6b0fcfa6d4.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
  <a href="https://github.com/Lippsxd/Lippsmusicbot /stargazers"><img src="https://img.shields.io/github/stars/Lippsxd/Lippsmusicbot ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Lippsxd/Lippsmusicbot /network/members"> <img src="https://img.shields.io/github/forks/Lippsxd/Lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
