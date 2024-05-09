@@ -1,5 +1,5 @@
 <h2 align="center">   
-    𝐋ɪᴘᴘꜱ 𝐌ᴜꜱɪᴄ 𝐁ᴏᴛ
+    𝐀𝐱 𝐌𝐮𝐳𝐢𝐜
    </h2>  
  <p align="center">   
 <img src="https://graph.org/file/cc41b9fed2c5c87f14044.jpg">   
