@@ -8,14 +8,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("API_ID","23307099"))
+API_HASH = getenv("API_HASH","87355f68d4e4c390ea832611630257fe")
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN",None) 
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Lipps Music Bot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Ax Muzic Bot")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -27,7 +27,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @RoseBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "2101893551"))
+OWNER_ID = int(getenv("OWNER_ID", "5032639872"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -44,7 +44,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ThinkGrowMore")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/i7cloudsstatus")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ThinkGrowMore")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
@@ -87,7 +87,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/8bdea9d933e1a0bb08035.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/99ef93eb840cd580ef218.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
@@ -96,22 +96,22 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "LippsMusic/assets/Playlist.jpeg",
+    "https://graph.org/file/42df2cda3b92b63be3442.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "LippsMusic/assets/Global.jpeg",
+    "https://graph.org/file/821a0c035e2cb23a0cf1c.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "LippsMusic/assets/Stats.jpeg",
+    "https://graph.org/file/56cc3b875fd3741eaa2dd.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "LippsMusic/assets/Audio.jpeg",
+    "https://graph.org/file/4cd79444bf5d06bb84c5c.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
@@ -121,7 +121,7 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "LippsMusic/assets/Stream.jpeg",
+    "https://graph.org/file/3d3282e1fe30e7a6357a2.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
@@ -131,7 +131,7 @@ SOUNCLOUD_IMG_URL = getenv(
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "LippsMusic/assets/Youtube.jpeg",
+    "https://graph.org/file/1f500cad02048673b75f0.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
@@ -146,7 +146,7 @@ SPOTIFY_ALBUM_IMG_URL = getenv(
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "LippsMusic/assets/SpotifyPlaylist.jpeg",
+    "https://graph.org/file/609a6a01e676ed2f3dc8f.jpg",
 )
 
 
@@ -198,7 +198,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @RoseBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "2101893551"))
+OWNER_ID = int(getenv("OWNER_ID", "5032639872"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -258,7 +258,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/8bdea9d933e1a0bb08035.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/99ef93eb840cd580ef218.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
@@ -267,12 +267,12 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "LippsMusic/assets/Playlist.jpeg",
+    "https://graph.org/file/42df2cda3b92b63be3442.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "LippsMusic/assets/Global.jpeg",
+    "https://graph.org/file/56cc3b875fd3741eaa2dd.jpg",
 )
 
 STATS_IMG_URL = getenv(
@@ -282,17 +282,17 @@ STATS_IMG_URL = getenv(
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "LippsMusic/assets/Audio.jpeg",
+    "https://graph.org/file/609a6a01e676ed2f3dc8f.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "LippsMusic/assets/Video.jpeg",
+    "https://graph.org/file/4cd79444bf5d06bb84c5c.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "LippsMusic/assets/Stream.jpeg",
+    "https://graph.org/file/56cc3b875fd3741eaa2dd.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
@@ -302,12 +302,12 @@ SOUNCLOUD_IMG_URL = getenv(
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "LippsMusic/assets/Youtube.jpeg",
+    "https://graph.org/file/3d3282e1fe30e7a6357a2.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "LippsMusic/assets/SpotifyArtist.jpeg",
+    "https://graph.org/file/1f500cad02048673b75f0.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
@@ -317,7 +317,7 @@ SPOTIFY_ALBUM_IMG_URL = getenv(
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "LippsMusic/assets/SpotifyPlaylist.jpeg",
+    "https://graph.org/file/609a6a01e676ed2f3dc8f.jpg",
 )
 
 
