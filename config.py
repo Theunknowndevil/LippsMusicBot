@@ -96,57 +96,57 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://graph.org/file/42df2cda3b92b63be3442.jpg",
+    "https://graph.org/file/bcf38e7398ddeeb65b379.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://graph.org/file/821a0c035e2cb23a0cf1c.jpg",
+    "https://graph.org/file/4289cbeabe572da74b3b2.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://graph.org/file/56cc3b875fd3741eaa2dd.jpg",
+    "https://graph.org/file/ea4d42ca7e7739f328442.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://graph.org/file/4cd79444bf5d06bb84c5c.jpg",
+    "https://graph.org/file/1f500cad02048673b75f0.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "LippsMusic/assets/Video.jpeg",
+    "https://graph.org/file/b7b2f1040b2579c3b7a36.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://graph.org/file/3d3282e1fe30e7a6357a2.jpg",
+    "https://graph.org/file/821a0c035e2cb23a0cf1c.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "LippsMusic/assets/Soundcloud.jpeg",
+    "https://graph.org/file/d649e96159eed6db70a02.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://graph.org/file/1f500cad02048673b75f0.jpg",
+    "https://graph.org/file/42df2cda3b92b63be3442.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "LippsMusic/assets/SpotifyArtist.jpeg",
+    "https://graph.org/file/108911c4b8298a141ddf9.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "LippsMusic/assets/SpotifyAlbum.jpeg",
+    "https://graph.org/file/8cc14772e9eabb2a7c5bb.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://graph.org/file/609a6a01e676ed2f3dc8f.jpg",
+    "https://graph.org/file/b7b2f1040b2579c3b7a36.jpg",
 )
 
 
@@ -267,52 +267,52 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://graph.org/file/42df2cda3b92b63be3442.jpg",
+    "https://graph.org/file/bcf38e7398ddeeb65b379.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://graph.org/file/56cc3b875fd3741eaa2dd.jpg",
+    "https://graph.org/file/4289cbeabe572da74b3b2.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "LippsMusic/assets/Stats.jpeg",
+    "https://graph.org/file/ea4d42ca7e7739f328442.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://graph.org/file/609a6a01e676ed2f3dc8f.jpg",
+    "https://graph.org/file/1f500cad02048673b75f0.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://graph.org/file/4cd79444bf5d06bb84c5c.jpg",
+    "https://graph.org/file/b7b2f1040b2579c3b7a36.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://graph.org/file/56cc3b875fd3741eaa2dd.jpg",
+    "https://graph.org/file/821a0c035e2cb23a0cf1c.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "LippsMusic/assets/Soundcloud.jpeg",
+    "https://graph.org/file/d649e96159eed6db70a02.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://graph.org/file/3d3282e1fe30e7a6357a2.jpg",
+    "https://graph.org/file/42df2cda3b92b63be3442.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://graph.org/file/1f500cad02048673b75f0.jpg",
+    "https://graph.org/file/108911c4b8298a141ddf9.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "LippsMusic/assets/SpotifyAlbum.jpeg",
+    "https://graph.org/file/8cc14772e9eabb2a7c5bb.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
