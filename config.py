@@ -186,7 +186,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN",None) 
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Lipps Music Bot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Ax Muzic Bot")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -208,15 +208,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Lippsxd/LippsMusicBot",
+    "https://github.com/Theunknowndevil/LippsMusicBot",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "lippsxd")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Theunknowndevil")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ThinkGrowMore")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ThinkGrowMore")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ax_muzicsuppo")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ax_muzicsuppo")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
